@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(128, 195, 255);
+}
+body{
+  cursor: pointer;
+}
+h1
+{
+    color: red; 
+    font-size: 40px;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+}
+
+button {
+  background-color: darkgreen;
+
+}
+
